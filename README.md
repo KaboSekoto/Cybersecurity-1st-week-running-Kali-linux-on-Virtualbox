@@ -1,76 +1,60 @@
-# Cybersecurity – 1st Week Project
-## Running Kali Linux on VirtualBox
+# 🔐 Cybersecurity Lab — Week 01
 
+## Kali Linux Deployment & Virtualization with Oracle VirtualBox
 
 **Author:** Kabo Sekoto  
 **Field:** Cybersecurity  
 **Project:** 1st Project — 1st Week
 
+---
 
 ## 📌 Project Overview
 
-This is my first practical cybersecurity project.
+This project documents my first practical cybersecurity laboratory exercise.
 
-The goal of this project was to install and run Kali Linux inside Oracle VirtualBox and create a basic cybersecurity laboratory environment.
+The objective was to deploy and run **Kali Linux** as a virtual machine using **Oracle VirtualBox**, while learning the fundamentals of virtualization, Linux, networking, and cybersecurity lab environments.
+
+---
 
 ## 🎯 Objectives
 
-- Learn what virtualization is.
-- Install Oracle VirtualBox.
-- Install Kali Linux.
-- Create a Kali Linux virtual machine.
-- Configure RAM, CPU, storage and networking.
-- Learn basic Linux commands.
-- Verify that Kali Linux is working correctly.
+- Install and configure Oracle VirtualBox
+- Create a Kali Linux virtual machine
+- Configure virtual machine hardware resources
+- Start and access the Kali Linux environment
+- Perform basic Linux system checks
+- Test network connectivity
+- Identify and troubleshoot performance limitations
+- Document the practical work in a professional cybersecurity portfolio
 
-## 🛠️ Tools Used
+---
 
-- Oracle VirtualBox
-- Kali Linux
-- Windows
-- Lenovo laptop
+## 🛠️ Technologies & Tools
 
-## 💻 Virtual Machine Configuration
-
-| Component | Configuration |
+| Technology / Tool | Purpose |
 |---|---|
-| Virtual Machine | Kali Linux |
-| Virtualization | Oracle VirtualBox |
-| Host Operating System | Windows |
-| Host RAM | 4 GB |
-| RAM allocated to Kali | 2 GB |
-| CPU | 1–2 cores |
-| Network | NAT |
+| Kali Linux | Cybersecurity-focused Linux distribution |
+| Oracle VirtualBox | Virtualization platform |
+| Windows | Host operating system |
+| Linux Terminal | System and network administration |
+| GitHub | Project documentation and portfolio |
 
-## 📥 Installation Process
+---
 
-### 1. Installing VirtualBox
+## 🏗️ Lab Architecture
 
-I installed Oracle VirtualBox on my Windows computer.
-
-### 2. Creating the Kali Linux Virtual Machine
-
-I created a new virtual machine in VirtualBox and selected Kali Linux as the operating system.
-
-### 3. Configuring the Virtual Machine
-
-I configured the virtual machine's RAM, CPU, storage and network settings.
-
-### 4. Installing Kali Linux
-
-I installed Kali Linux inside the VirtualBox virtual machine.
-
-### 5. Starting Kali Linux
-
-After installation, I successfully started Kali Linux and accessed the desktop environment.
-
-## 🧪 Basic Linux Commands
-
-I practiced basic Linux commands:
-
-```bash
-whoami
-pwd
-ls
-ip addr
-uname -a
+```text
+┌──────────────────────────────┐
+│        Lenovo Laptop         │
+│       Windows Host OS        │
+│                              │
+│      ┌────────────────┐      │
+│      │ Oracle         │      │
+│      │ VirtualBox     │      │
+│      │                │      │
+│      │ ┌────────────┐ │      │
+│      │ │ Kali Linux │ │      │
+│      │ │    VM      │ │      │
+│      │ └────────────┘ │      │
+│      └────────────────┘      │
+└──────────────────────────────┘
