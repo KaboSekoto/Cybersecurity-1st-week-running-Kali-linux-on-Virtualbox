@@ -60,7 +60,7 @@ After installation, I successfully started Kali Linux and accessed the desktop e
 
 ## 🧪 Basic Linux Commands
 
-I practiced some basic Linux commands:
+I practiced basic Linux commands:
 
 ```bash
 whoami
