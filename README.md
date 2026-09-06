@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Lab — Week 01
+# 🔐 Cybersecurity Lab : Week 1
 
 ## Kali Linux Deployment & Virtualization with Oracle VirtualBox
 
@@ -350,26 +350,6 @@ Oracle VirtualBox was used to create and run the Kali Linux virtual machine.
 https://kali.org/get-kali
 
 Kali Linux was used as the cybersecurity-focused operating system for the virtual laboratory environment.
-
----
-
-# 📸 Project Evidence
-
-The project will be supported by screenshots from my actual laboratory environment.
-
-### Evidence to be included
-
-1. VirtualBox VM configuration
-2. Created Kali Linux virtual machine
-3. Kali Linux starting
-4. Kali Linux desktop
-5. Linux terminal commands
-6. Network connectivity test
-7. Performance issue while running Kali Linux
-8. Troubleshooting process
-
-> **Note:** Screenshots used as personal project evidence should come from my actual laboratory environment. External images are not presented as evidence of my own work.
-
 ---
 
 # 📚 Key Learning Outcomes
@@ -468,7 +448,7 @@ This laboratory environment is intended for controlled and authorized cybersecur
 
 **Junior Cybersecurity**
 
-This repository forms part of my practical cybersecurity learning portfolio and documents my progress through hands-on laboratory exercises.
+This repository forms part of my practical cybersecurity learning portfolio and documents my progress through hands on laboratory exercises.
 
 **LinkedIn:**  
 https://linkedin.com/in/kabo-sekoto-706429259/
