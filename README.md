@@ -2,18 +2,15 @@
 
 ## Kali Linux Deployment & Virtualization with Oracle VirtualBox
 
-**Author:** Kabo Sekoto  
-**Field:** Cybersecurity  
-**Project:** 1st Project — 1st Week  
-**Status:** Completed
-
 ---
 
 ## 📌 Project Overview
 
 This project documents my first practical cybersecurity laboratory exercise.
 
-The purpose of this project was to deploy and run Kali Linux as a virtual machine using Oracle VirtualBox. The project provided practical experience with virtualization, Linux, system administration, networking, troubleshooting, and technical documentation.
+The objective was to build a virtual cybersecurity laboratory environment for penetration-testing and ethical-hacking practice by deploying Kali Linux v2026.2 using VirtualBox v7.2.
+
+The project provided practical experience with virtualization, Linux, system administration, networking, troubleshooting, and technical documentation.
 
 The laboratory was performed on a Lenovo laptop running Windows with 4 GB of RAM.
 
@@ -23,7 +20,7 @@ The laboratory was performed on a Lenovo laptop running Windows with 4 GB of RAM
 
 The main objectives of this project were to:
 
-- Install and use Oracle VirtualBox
+- Install and use VirtualBox
 - Create a Kali Linux virtual machine
 - Configure virtual machine resources
 - Start and access Kali Linux
@@ -31,21 +28,20 @@ The main objectives of this project were to:
 - Check system information
 - Identify network interfaces
 - Test network connectivity
-- Identify performance problems
+- Identify performance limitations
 - Troubleshoot limited system resources
+- Build a practical cybersecurity laboratory environment
 - Document the work as part of a cybersecurity portfolio
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🔐 Cybersecurity Lab Environment
 
-| Technology / Tool | Purpose |
-|---|---|
-| Kali Linux | Cybersecurity-focused Linux operating system |
-| Oracle VirtualBox | Virtualization platform |
-| Windows | Host operating system |
-| Linux Terminal | System administration and testing |
-| GitHub | Project documentation and portfolio |
+![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-7.2-blue?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2026.2-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
@@ -55,18 +51,17 @@ The main objectives of this project were to:
 
 | Component | Details |
 |---|---|
-| Computer | Lenovo laptop |
+| Computer | Lenovo Laptop |
 | Model/Type | 81H5 |
 | Host Operating System | Windows |
 | RAM | 4 GB |
-| Virtualization Software | Oracle VirtualBox |
 
 ### Virtual Machine
 
 | Resource | Configuration |
 |---|---|
-| Operating System | Kali Linux |
-| Virtualization | Oracle VirtualBox |
+| Operating System | Kali Linux v2026.2 |
+| Virtualization | VirtualBox v7.2 |
 | Network Mode | NAT |
 | RAM | Configured according to available host resources |
 | CPU | Configured according to available host resources |
@@ -81,10 +76,10 @@ The main objectives of this project were to:
                 Windows Host OS
                        │
                        │
-               Oracle VirtualBox
+                VirtualBox v7.2
                        │
                        │
-                Kali Linux VM
+              Kali Linux v2026.2
                        │
               ┌────────┴────────┐
               │                 │
