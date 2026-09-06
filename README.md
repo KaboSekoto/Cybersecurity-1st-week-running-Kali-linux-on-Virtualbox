@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Lab : Week 1
 
-## Kali Linux Deployment & Virtualization with Oracle VirtualBox
+## Kali Linux on VirtualBox
 
 ---
 
@@ -8,7 +8,7 @@
 
 This project documents my first practical cybersecurity laboratory exercise.
 
-The objective was to build a virtual cybersecurity laboratory environment for penetration-testing and ethical-hacking practice by deploying **Kali Linux v2026.2** using **Oracle VirtualBox v7.2**.
+The objective is to build a virtual cybersecurity laboratory environment for penetration testing and ethicalhacking practice by deploying **Kali Linux v2026.2** using **Oracle VirtualBox v7.2**.
 
 The project provided practical experience with:
 
