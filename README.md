@@ -1,6 +1,12 @@
 # Cybersecurity – 1st Week Project
 ## Running Kali Linux on VirtualBox
 
+
+**Author:** Kabo Sekoto  
+**Field:** Cybersecurity  
+**Project:** 1st Project — 1st Week
+
+
 ## 📌 Project Overview
 
 This is my first practical cybersecurity project.
