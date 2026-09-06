@@ -160,3 +160,102 @@ After starting Kali Linux, I used the Linux terminal to perform basic system che
 
 ```bash
 whoami
+pwd
+ls
+uname -a
+ip addr
+ping -c 4 google.com
+Command Summary
+Command	Purpose
+whoami	Shows the current user
+pwd	Shows the current working directory
+ls	Lists files and directories
+uname -a	Displays system and kernel information
+ip addr	Displays network interface and IP information
+ping -c 4 google.com	Tests network connectivity
+🛠️ Tools & Resources
+7-Zip
+https://7-zip.org/download.html
+7-Zip was used as a file compression and extraction utility when working with downloaded files and archives.
+Oracle VirtualBox
+https://virtualbox.org/wiki/Downloads
+Oracle VirtualBox was used to create and run the Kali Linux virtual machine.
+Kali Linux
+https://kali.org/get-kali
+Kali Linux was used as the cybersecurity-focused operating system for the virtual laboratory environment.
+📸 Project Evidence
+The project will be supported by screenshots from my actual laboratory environment.
+Evidence to be included:
+VirtualBox VM configuration
+Created Kali Linux virtual machine
+Kali Linux starting
+Kali Linux desktop
+Linux terminal commands
+Network connectivity test
+Performance issue while running Kali Linux
+Troubleshooting process
+Screenshots used as personal project evidence should come from my actual laboratory environment. External images are not presented as evidence of my own work.
+📚 Key Learning Outcomes
+This project helped me develop practical knowledge of:
+Cybersecurity laboratory setup
+Virtualization
+Oracle VirtualBox
+Kali Linux
+Linux operating systems
+Linux terminal commands
+System administration
+Network interfaces
+IP addressing
+NAT networking
+Network connectivity testing
+Hardware resource allocation
+Virtual machine troubleshooting
+Technical documentation
+GitHub portfolio development
+💭 Technical Reflection
+This project demonstrated that cybersecurity requires more than simply learning security tools.
+A cybersecurity professional also needs to understand operating systems, networking, virtualization, hardware resources, and troubleshooting.
+The 4 GB RAM limitation provided practical experience of how insufficient system resources can affect a virtualized cybersecurity environment.
+The experience also demonstrated the importance of monitoring system performance and allocating resources appropriately.
+🔮 Future Improvements
+For future cybersecurity laboratory projects, I plan to:
+Upgrade the laptop RAM to 8 GB or more
+Improve Kali Linux virtual machine performance
+Explore additional Kali Linux security tools
+Perform controlled network-security exercises
+Learn additional Linux commands
+Build more cybersecurity laboratory projects
+Improve technical documentation
+Continue developing my GitHub cybersecurity portfolio
+📊 Project Summary
+Category	Details
+Project	Cybersecurity Lab — Week 01
+Topic	Kali Linux Deployment & Virtualization
+Skill	Cybersecurity
+Host Computer	Lenovo Laptop
+Model/Type	81H5
+Host Operating System	Windows
+Host RAM	4 GB
+Virtualization	VirtualBox v7.2
+Guest Operating System	Kali Linux v2026.2
+Networking	NAT
+Main Challenge	Limited RAM
+Secondary Challenge	Slow VM startup
+Troubleshooting	Resource optimization and application management
+Future Hardware Improvement	Upgrade to 8 GB RAM or more
+Status	Completed
+⚖️ Ethical & Legal Disclaimer
+All cybersecurity activities documented in this portfolio are intended for educational purposes.
+Security testing should only be performed on systems, networks, applications, and environments where appropriate authorization has been granted.
+This laboratory environment is intended for controlled and authorized cybersecurity learning.
+📖 References
+Kali Linux Documentation
+Oracle VirtualBox Documentation
+GitHub Documentation
+7-Zip Documentation
+👤 Author
+Kabo Sekoto
+Junior Cybersecurity
+This repository forms part of my practical cybersecurity learning portfolio and documents my progress through hands-on laboratory exercises.
+LinkedIn:
+https://linkedin.com/in/kabo-sekoto-706429259/
