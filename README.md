@@ -204,7 +204,7 @@ ip addr
 Network connectivity was tested from the Kali Linux virtual machine using:
 
 ```bash
-ping -c 4 google.com
+ping -c 4 networkwalks.com
 ```
 
 ## Purpose
