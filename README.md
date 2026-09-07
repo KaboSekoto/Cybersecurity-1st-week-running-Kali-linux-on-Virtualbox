@@ -225,6 +225,8 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ### whoami Evidence
 
+The `whoami` command was used in Kali Linux to identify the currently logged in user.
+
 ![whoami Evidence](Evidence/whoami.png)
 
 
