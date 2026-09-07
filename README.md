@@ -17,7 +17,7 @@ The project provided practical experience with:
 - Linux system administration
 - Networking
 - Troubleshooting
-- Cybersecurity laboratory setup
+  
 
 The laboratory was performed on a **Lenovo laptop running Windows with 4 GB of RAM**.
 
@@ -25,17 +25,15 @@ The laboratory was performed on a **Lenovo laptop running Windows with 4 GB of R
 
 ## 🎯 Objectives
 
-The main objectives of this project were to:
+The main objectives of this project was to:
 
-- Install and use Oracle VirtualBox
+- Install and use VirtualBox
 - Deploy Kali Linux in a virtual machine
 - Configure virtual machine resources
 - Start and access Kali Linux
 - Check system information
 - Test network connectivity
 - Understand NAT networking
-- Build a practical cybersecurity laboratory environment
-- Document the project as part of a cybersecurity portfolio
 
 ---
 
@@ -71,42 +69,11 @@ The main objectives of this project were to:
 
 ---
 
-## 🏗️ Lab Architecture
-
-```text
-                 ┌─────────────────────────┐
-                 │     Lenovo Laptop       │
-                 │       Windows Host      │
-                 │        4 GB RAM         │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                 ┌─────────────────────────┐
-                 │     VirtualBox v7.2     │
-                 │   Virtualization Layer  │
-                 └────────────┬────────────┘
-                              │
-                              ▼
-                 ┌─────────────────────────┐
-                 │    Kali Linux v2026.2   │
-                 │     Virtual Machine     │
-                 └────────────┬────────────┘
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-             Linux Terminal       NAT Network
-                    │                   │
-                    ▼                   ▼
-             System Checks       Internet Test
-```
-
----
-
 # 🚀 Kali Linux Deployment
 
 ## Step 1 — VirtualBox Setup
 
-Oracle VirtualBox v7.2 was used as the virtualization platform.
+VirtualBox v7.2 was used as the virtualization platform.
 
 A virtual machine was created and configured for Kali Linux v2026.2.
 
@@ -159,16 +126,6 @@ whoami
 
 ---
 
-## Check Current Directory
-
-```bash
-pwd
-```
-
-**Purpose:** Displays the current working directory.
-
----
-
 ## List Files and Directories
 
 ```bash
@@ -176,16 +133,6 @@ ls
 ```
 
 **Purpose:** Displays files and directories in the current location.
-
----
-
-## Check System and Kernel Information
-
-```bash
-uname -a
-```
-
-**Purpose:** Displays detailed information about the Linux kernel, system architecture, hostname, and operating system environment.
 
 ---
 
@@ -250,7 +197,7 @@ During the laboratory, performance limitations were encountered because the host
 
 The host computer has only **4 GB of RAM**.
 
-Running Windows, VirtualBox, Kali Linux, a web browser, and other background applications simultaneously placed pressure on the available system memory.
+Running Windows, VirtualBox, Kali Linux, a web browser and other background applications simultaneously placed pressure on the available system memory.
 
 As a result, Kali Linux became slow and overall computer responsiveness was reduced.
 
@@ -269,7 +216,7 @@ The following steps were used to reduce resource usage:
 
 - Closed unnecessary Windows applications
 - Closed unnecessary browser tabs
-- Avoided running multiple resource-intensive applications
+- Avoided running multiple resource intensive applications
 - Adjusted virtual machine resources where possible
 - Reduced unnecessary background activity
 - Allowed Kali Linux additional time to start
@@ -296,7 +243,7 @@ The following troubleshooting actions were used:
 
 1. Closed unnecessary Windows applications.
 2. Closed unnecessary browser tabs.
-3. Avoided running additional resource-intensive software.
+3. Avoided running additional resource intensive software.
 4. Adjusted VirtualBox resources where possible.
 5. Allowed Kali Linux sufficient time to complete startup.
 6. Monitored system responsiveness during startup.
@@ -336,9 +283,7 @@ ping -c 4 google.com
 | Command | Purpose |
 |---|---|
 | `whoami` | Shows the current user |
-| `pwd` | Shows the current working directory |
 | `ls` | Lists files and directories |
-| `uname -a` | Displays system and kernel information |
 | `ip addr` | Displays network interface and IP information |
 | `ping -c 4 google.com` | Tests network connectivity |
 
@@ -390,7 +335,7 @@ This project helped me develop practical knowledge of:
 
 This project demonstrated that cybersecurity requires more than simply learning security tools.
 
-A cybersecurity professional also needs to understand operating systems, networking, virtualization, hardware resources, and troubleshooting.
+A cybersecurity professional also needs to understand operating systems, networking, virtualization, hardware resources and troubleshooting.
 
 The **4 GB RAM limitation** provided practical experience of how insufficient system resources can affect a virtualized cybersecurity environment.
 
@@ -438,7 +383,7 @@ For future cybersecurity laboratory projects, I plan to:
 
 All cybersecurity activities documented in this portfolio are intended for educational purposes.
 
-Security testing should only be performed on systems, networks, applications, and environments where appropriate authorization has been granted.
+Security testing should only be performed on systems, networks, applications and environments where appropriate authorization has been granted.
 
 This laboratory environment is intended for controlled and authorized cybersecurity learning.
 
