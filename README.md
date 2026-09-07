@@ -221,6 +221,11 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ---
 
+# 📸 Evidence
+
+## Evidence 1 — `whoami`
+
+
 # ⚠️ Problems Encountered & Solutions
 
 During the laboratory, performance limitations were encountered because the host computer had limited hardware resources.
