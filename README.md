@@ -229,11 +229,7 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 After installing Kali Linux, an internet connectivity test was performed using the `ping` command.
 
-```bash
-
-ping -c 4 networkwalks.com
-
-# ⚠️ Problems Encountered & Solutions
+## ⚠️ Problems Encountered & Solutions
 
 During the laboratory, performance limitations were encountered because the host computer had limited hardware resources.
 
