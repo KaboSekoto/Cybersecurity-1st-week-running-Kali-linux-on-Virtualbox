@@ -221,11 +221,11 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ---
 
-# 📸 Evidence
+## 📸 Evidence
 
-## Evidence 1 — `whoami`
+### whoami Evidence
 
-![whoami evidence](whoami.png)
+![whoami Evidence](whoami.png)
 
 
 # ⚠️ Problems Encountered & Solutions
