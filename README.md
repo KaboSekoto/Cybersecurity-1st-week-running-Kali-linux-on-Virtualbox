@@ -225,6 +225,8 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ### whoami Evidence
 
+![whoami Evidence](Evidence/whoami.png)
+
 ![whoami Evidence](whoami.png)
 
 
