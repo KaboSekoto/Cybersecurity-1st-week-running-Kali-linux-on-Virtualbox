@@ -229,6 +229,17 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 After installing Kali Linux, an internet connectivity test was performed using the `ping` command.
 
+### 02 — NAT Network Configuration
+
+![NAT Network Configuration](Evidence/02-nat-network.png)
+
+The NAT Network was configured in Oracle VirtualBox with the following settings:
+
+- **Network Name:** `NatNetwork`
+- **IPv4 Prefix:** `10.0.0.0/24`
+
+This configuration provides a controlled network environment for the Kali Linux virtual machine.
+
 ## ⚠️ Problems Encountered & Solutions
 
 During the laboratory, performance limitations were encountered because the host computer had limited hardware resources.
