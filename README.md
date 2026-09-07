@@ -221,15 +221,13 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ---
 
-## 🔎 Evidence — User Identification
+## 🧪 Practical Evidence
 
-### whoami Evidence
+### 01 — User Identity Verification
 
-The `whoami` command was used in Kali Linux to identify the currently logged in user.
+![Whoami Command Output](Evidence/whoami.png)
 
-![whoami Evidence](Evidence/whoami.png)
-
-
+The `whoami` command was executed to verify the identity of the currently authenticated user in the Kali Linux environment.
 
 
 # ⚠️ Problems Encountered & Solutions
