@@ -225,6 +225,8 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ## Evidence 1 — `whoami`
 
+![whoami evidence](whoami.png)
+
 
 # ⚠️ Problems Encountered & Solutions
 
