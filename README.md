@@ -221,14 +221,16 @@ Where replies were received, this confirmed that the virtual machine could commu
 
 ---
 
-## 🧪 Practical Evidence
+# 🧪 Practical Evidence
 
-### 01 — User Identity Verification
+### 01 — Internet Connectivity Test
 
-![Whoami Command Output](Evidence/whoami.png)
+![Internet Connectivity Test](Evidence/01-internet-connectivity.jpg)
 
-The `whoami` command was executed to verify the identity of the currently authenticated user in the Kali Linux environment.
+After installing Kali Linux, an internet connectivity test was performed using the `ping` command.
 
+```bash
+ping -c 4 networkwalks.com
 
 # ⚠️ Problems Encountered & Solutions
 
