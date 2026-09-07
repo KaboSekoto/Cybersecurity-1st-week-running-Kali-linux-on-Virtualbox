@@ -231,7 +231,7 @@ After installing Kali Linux, an internet connectivity test was performed using t
 
 ### 02 — NAT Network Configuration
 
-![NAT Network Configuration](Evidence/02-nat-network.png)
+![NAT Network Configuration](IMG_6495.png)
 
 The NAT Network was configured in Oracle VirtualBox with the following settings:
 
