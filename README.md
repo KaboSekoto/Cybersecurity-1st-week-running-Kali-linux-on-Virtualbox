@@ -1,7 +1,5 @@
 ![Cybersecurity Lab — Week 1](IMG_6500.png)
 
-## Kali Linux on VirtualBox
-
 # 🔐 Cybersecurity Lab : Week 1
 
 ## Kali Linux on VirtualBox
