@@ -8,7 +8,7 @@
 
 This project documents my first practical cybersecurity laboratory exercise.
 
-The objective is to build a virtual cybersecurity laboratory environment for penetration testing and ethicalhacking practice by deploying **Kali Linux v2026.2** using **Oracle VirtualBox v7.2**.
+The objective is to build a virtual cybersecurity laboratory environment for penetration testing and ethical hacking practice by deploying **Kali Linux v2026.2** using **Oracle VirtualBox v7.2**.
 
 The project provided practical experience with:
 
@@ -17,8 +17,6 @@ The project provided practical experience with:
 - Linux system administration
 - Networking
 - Troubleshooting
-- Hardware resource management
-- Technical documentation
 - Cybersecurity laboratory setup
 
 The laboratory was performed on a **Lenovo laptop running Windows with 4 GB of RAM**.
@@ -33,12 +31,8 @@ The main objectives of this project were to:
 - Deploy Kali Linux in a virtual machine
 - Configure virtual machine resources
 - Start and access Kali Linux
-- Learn basic Linux terminal commands
 - Check system information
-- Identify network interfaces
 - Test network connectivity
-- Identify performance limitations
-- Troubleshoot limited hardware resources
 - Understand NAT networking
 - Build a practical cybersecurity laboratory environment
 - Document the project as part of a cybersecurity portfolio
@@ -369,8 +363,7 @@ This project helped me develop practical knowledge of:
 - Network connectivity testing
 - Hardware resource allocation
 - Virtual machine troubleshooting
-- Technical documentation
-- GitHub portfolio development
+
 
 ---
 
@@ -397,7 +390,6 @@ For future cybersecurity laboratory projects, I plan to:
 - Learn additional Linux commands
 - Build more cybersecurity laboratory projects
 - Improve technical documentation
-- Continue developing my GitHub cybersecurity portfolio
 
 ---
 
