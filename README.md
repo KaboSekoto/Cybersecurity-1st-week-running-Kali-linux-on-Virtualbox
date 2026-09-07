@@ -275,7 +275,7 @@ pwd
 ls
 uname -a
 ip addr
-ping -c 4 google.com
+ping -c 4 networkwalks.com
 ```
 
 ## Command Summary
@@ -285,7 +285,7 @@ ping -c 4 google.com
 | `whoami` | Shows the current user |
 | `ls` | Lists files and directories |
 | `ip addr` | Displays network interface and IP information |
-| `ping -c 4 google.com` | Tests network connectivity |
+| `ping -c 4 networkwalks.com` | Tests network connectivity |
 
 ---
 
