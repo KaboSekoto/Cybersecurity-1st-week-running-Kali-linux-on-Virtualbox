@@ -169,9 +169,6 @@ The test was used to verify network connectivity through the VirtualBox NAT conf
 Where replies were received, this confirmed that the virtual machine could communicate with the external host.
 
 ---
-## 🎥 Lab Demonstration
-
-[Watch the Kali Linux Week 1 demonstration](Kali_Linux_Week1_Learner_Guide_WITH_BACKGROUND_SOUND.mov)
 
 # 🧪 Practical Evidence
 
