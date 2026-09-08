@@ -171,7 +171,7 @@ Where replies were received, this confirmed that the virtual machine could commu
 ---
 ## 🎥 Lab Demonstration
 
-[Watch the Kali Linux Week 1 demonstration](./Kali_Linux_Week1_Learner_Guide_WITH_BACKGROUND_SOUND.mp4)
+[Watch the Kali Linux Week 1 demonstration](Kali_Linux_Week1_Learner_Guide_WITH_BACKGROUND_SOUND.mov)
 
 # 🧪 Practical Evidence
 
